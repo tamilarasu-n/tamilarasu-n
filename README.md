@@ -1,16 +1,119 @@
-## Hi there 👋
+# Hi, I'm Tamilarasu 👋
 
-<!--
-**tamilarasu-n/tamilarasu-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer
 
-Here are some ideas to get you started:
+I build practical web applications using **React.js, Node.js, Express.js, and MySQL**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm focused on developing real-world projects, improving my problem-solving skills, and growing as a software developer.
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React.js-17-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js">
+  <img src="https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" alt="REST API">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
+</p>
+
+---
+
+## 🚀 Featured Project
+
+### Consistency Grid
+
+A full-stack habit tracking application designed to help users build consistency, track daily habits, and maintain streaks.
+
+**Tech Stack**
+
+`React.js` `Node.js` `Express.js` `MySQL`
+
+**Features**
+
+- 🔐 User registration and login
+- ✉️ Email OTP verification
+- 🔑 Google authentication
+- ➕ Create, edit, and delete habits
+- 📅 Daily habit tracking
+- ✅ Habit completion tracking
+- 🔥 Streak tracking
+- 📊 Progress dashboard
+- 📱 Responsive interface
+
+<p align="center">
+  <a href="https://consistency-tracker-theta.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Consistency%20Grid-3525CD?style=for-the-badge" alt="Live Demo">
+  </a>
+  <a href="https://github.com/tamilarasu-n/consistency-tracker">
+    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github" alt="Source Code">
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Bootstrap
+
+### Backend
+
+- Node.js
+- Express.js
+- REST APIs
+
+### Database
+
+- MySQL
+- SQL
+- SQLite
+
+### Tools
+
+- Git
+- GitHub
+- MySQL Workbench
+
+---
+
+## 📌 Currently Learning
+
+- Data Structures and Algorithms
+- Problem Solving
+- Advanced React.js
+- Backend Development
+- SQL and Database Design
+- Full Stack Application Development
+
+---
+
+## 🎯 My Goal
+
+To become a strong **Full Stack Developer** by continuously building real-world applications, improving problem-solving skills, and learning from practical development experience.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="www.linkedin.com/in/tamilarasu-n">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/tamilarasu-n">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
