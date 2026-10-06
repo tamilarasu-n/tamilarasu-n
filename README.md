@@ -37,67 +37,14 @@ A full-stack habit tracking application designed to help users build consistency
 
 `React.js` `Node.js` `Express.js` `MySQL`
 
-**Features**
-
-- 🔐 User registration and login
-- ✉️ Email OTP verification
-- 🔑 Google authentication
-- ➕ Create, edit, and delete habits
-- 📅 Daily habit tracking
-- ✅ Habit completion tracking
-- 🔥 Streak tracking
-- 📊 Progress dashboard
-- 📱 Responsive interface
-
-<p align="center">
-  <a href="https://consistency-tracker-theta.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Consistency%20Grid-3525CD?style=for-the-badge" alt="Live Demo">
-  </a>
-  <a href="https://github.com/tamilarasu-n/consistency-tracker">
-    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github" alt="Source Code">
-  </a>
-</p>
+🔗 [Live Demo](https://consistency-tracker-theta.vercel.app/)  
+🔗 [Source Code](https://github.com/tamilarasu-n/consistency-tracker)
 
 ---
 
-## 🛠️ Tech Stack
+### 📚 Currently Learning
 
-### Frontend
-
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Bootstrap
-
-### Backend
-
-- Node.js
-- Express.js
-- REST APIs
-
-### Database
-
-- MySQL
-- SQL
-- SQLite
-
-### Tools
-
-- Git
-- GitHub
-- MySQL Workbench
-
----
-
-## 📌 Currently Learning
-
-- Data Structures and Algorithms
-- Problem Solving
-- Advanced React.js
-- Backend Development
-- SQL and Database Design
-- Full Stack Application Development
+Data Structures & Algorithms • Problem Solving • Full Stack Development
 
 ---
 
@@ -107,13 +54,7 @@ To become a strong **Full Stack Developer** by continuously building real-world 
 
 ---
 
-## 🤝 Let's Connect
+### 🤝 Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/tamilarasu-n">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/tamilarasu-n">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/tamilarasu-n) • [GitHub](https://github.com/tamilarasu-n)
+
